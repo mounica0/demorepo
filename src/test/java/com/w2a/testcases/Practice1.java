@@ -27,8 +27,7 @@ public class Practice1
 		    driver.manage().window().maximize();
 		
 		    
-		    System.out.println("hello sushi");
-		    System.out.println("hello sushi");
+		  
 //		    WebElement mySelectElement = driver.findElement(By.name("multipleselect[]"));
 //		    Select dropdown= new Select(mySelectElement);
 //		    //To deselect an option
