@@ -25,7 +25,7 @@ public class Practice1
 		    //Identify the select HTML element:
 		    Thread.sleep(5000);
 		    driver.manage().window().maximize();
-		
+		system.out.println("hi");
 		    
 		  
 //		    WebElement mySelectElement = driver.findElement(By.name("multipleselect[]"));
